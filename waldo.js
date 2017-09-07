@@ -35,3 +35,5 @@ function actionWhenFound(index) {
 }
 
 findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound);
+
+//Recommitted for spelling mistake in commit message
